@@ -7,5 +7,6 @@ Lesen Sie mehr über IoT, Edge- und Cloud Computing in unserem kostenlosen innFa
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=innfactory&repo=react-typesafe-routes&theme=dark&hide_border=true&bg_color=444444)](https://github.com/innFactory/react-typesafe-routes)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=innfactory&repo=bootstrap-play2&theme=dark&hide_border=true&bg_color=444444)](https://github.com/innFactory/bootstrap-play2)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=innfactory&repo=react-template&theme=dark&hide_border=true&bg_color=444444)](https://github.com/innFactory/react-template)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=innfactory&repo=smithy4play&theme=dark&hide_border=true&bg_color=444444)](https://github.com/innFactory/smithy4play)
 
 
